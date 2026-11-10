@@ -38,7 +38,7 @@
     "ts-jest": "^24.0.0",
     "ts-node": "^8.0.3",
     "typescript": "^3.3.3333",
-    "bitcoinjs-lib": "4.0.5",
+    "bitcoinjs-lib": "5.2.1",
     "secp256r1": "0.0.3"
   },
   "devDependencies": {
